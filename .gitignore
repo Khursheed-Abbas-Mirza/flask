@@ -1,0 +1,4 @@
+# To Ignore Include Folders
+include/
+Lib/
+Scripts/
