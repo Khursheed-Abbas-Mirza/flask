@@ -11,4 +11,4 @@ def func():
 # def serve_static_file(filename):
 #     print(filename)
 #     return send_from_directory(app.static_folder, filename)
-app.run(host="localhost",port=3036,debug=True)
+app.run(debug=True)
